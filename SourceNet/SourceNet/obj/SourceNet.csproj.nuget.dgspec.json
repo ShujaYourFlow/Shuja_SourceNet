@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\YourFlow project\\SourceNet\\SourceNet\\SourceNet.csproj": {}
+  },
+  "projects": {
+    "F:\\YourFlow project\\SourceNet\\MyApp.db\\MyApp.db.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\YourFlow project\\SourceNet\\MyApp.db\\MyApp.db.csproj",
+        "projectName": "MyApp.db",
+        "projectPath": "F:\\YourFlow project\\SourceNet\\MyApp.db\\MyApp.db.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj": {
+                "projectPath": "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj",
+        "projectName": "MyApp.Entity",
+        "projectPath": "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\YourFlow project\\SourceNet\\SourceNet\\SourceNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\YourFlow project\\SourceNet\\SourceNet\\SourceNet.csproj",
+        "projectName": "SourceNet",
+        "projectPath": "F:\\YourFlow project\\SourceNet\\SourceNet\\SourceNet.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "F:\\YourFlow project\\SourceNet\\SourceNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\YourFlow project\\SourceNet\\MyApp.db\\MyApp.db.csproj": {
+                "projectPath": "F:\\YourFlow project\\SourceNet\\MyApp.db\\MyApp.db.csproj"
+              },
+              "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj": {
+                "projectPath": "F:\\YourFlow project\\SourceNet\\MyApp.Entity\\MyApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,376 @@
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\MyApp.db.dll.config
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\MyApp.db.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\MyApp.db.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Options.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Identity.Client.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\MyApp.Entity.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Newtonsoft.Json.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Buffers.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Collections.Immutable.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.ComponentModel.Annotations.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Memory.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Numerics.Vectors.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\MyApp.Entity.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Options.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.Identity.Client.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Newtonsoft.Json.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Buffers.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Collections.Immutable.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Memory.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Numerics.Vectors.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\obj\Debug\MyApp.db.csprojAssemblyReference.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\obj\Debug\MyApp.db.csproj.CoreCompileInputs.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\obj\Debug\MyApp.db.csproj.CopyComplete
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\obj\Debug\MyApp.db.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\obj\Debug\MyApp.db.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Text.Encodings.Web.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.db\bin\Debug\System.Text.Encodings.Web.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\MyApp.db.dll.config
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\MyApp.db.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\MyApp.db.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Options.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Identity.Client.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\MyApp.Entity.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Newtonsoft.Json.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Buffers.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Collections.Immutable.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.ComponentModel.Annotations.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Memory.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Numerics.Vectors.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Text.Encodings.Web.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\MyApp.Entity.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Options.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.Identity.Client.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\Newtonsoft.Json.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Buffers.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Collections.Immutable.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Memory.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Numerics.Vectors.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Text.Encodings.Web.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\obj\Debug\MyApp.db.csprojAssemblyReference.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\obj\Debug\MyApp.db.csproj.CoreCompileInputs.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\obj\Debug\MyApp.db.csproj.CopyComplete
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\obj\Debug\MyApp.db.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_PANEL\MyApp.db\obj\Debug\MyApp.db.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.AssemblyReference.cache
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.CoreCompileInputs.cache
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\obj\Debug\MyApp.db.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\obj\Debug\MyApp.db.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\MyApp.db.dll.config
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\MyApp.db.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\MyApp.db.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Options.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Identity.Client.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\MyApp.Entity.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Newtonsoft.Json.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Buffers.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Collections.Immutable.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.ComponentModel.Annotations.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Memory.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Numerics.Vectors.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Text.Encodings.Web.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\MyApp.Entity.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Options.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.Identity.Client.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\Newtonsoft.Json.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Buffers.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Collections.Immutable.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Memory.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Numerics.Vectors.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Text.Encodings.Web.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.CopyComplete
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\MyApp.db.dll.config
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\MyApp.db.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\MyApp.db.pdb
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Options.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Identity.Client.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\MyApp.Entity.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Newtonsoft.Json.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Buffers.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Collections.Immutable.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.ComponentModel.Annotations.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Memory.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Numerics.Vectors.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Text.Encodings.Web.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\MyApp.Entity.pdb
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Options.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.Identity.Client.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\Newtonsoft.Json.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Buffers.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Collections.Immutable.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Memory.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Numerics.Vectors.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Text.Encodings.Web.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\YourFlow project\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.AssemblyReference.cache
+F:\YourFlow project\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.CoreCompileInputs.cache
+F:\YourFlow project\SourceNet\MyApp.db\obj\Debug\MyApp.db.csproj.CopyComplete
+F:\YourFlow project\SourceNet\MyApp.db\obj\Debug\MyApp.db.dll
+F:\YourFlow project\SourceNet\MyApp.db\obj\Debug\MyApp.db.pdb

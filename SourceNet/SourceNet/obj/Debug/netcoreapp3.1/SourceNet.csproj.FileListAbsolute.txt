@@ -1,0 +1,426 @@
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.AssemblyReference.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.AssemblyInfoInputs.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.AssemblyInfo.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.CoreCompileInputs.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.MvcApplicationPartsAssemblyInfo.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorAssemblyInfo.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorAssemblyInfo.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\appsettings.json
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.exe
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.deps.json
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.runtimeconfig.json
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.runtimeconfig.dev.json
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.Views.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.Views.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.Entity.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.dll.config
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.Entity.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\staticwebassets\SourceNet.StaticWebAssets.Manifest.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\staticwebassets\SourceNet.StaticWebAssets.xml
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\SourceNet.styles.css
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.TagHelpers.input.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.TagHelpers.output.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorCoreGenerate.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorTargetAssemblyInfo.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorTargetAssemblyInfo.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.Views.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.CopyComplete
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.pdb
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.genruntimeconfig.cache
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Home\Index.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Home\Privacy.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\Error.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\_Layout.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\_ViewImports.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\_ViewStart.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Admin\Index.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Admin\Privacy.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\Error.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\_Layout.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\_ViewImports.cshtml.g.cs
+E:\YourFlow\SourceNets\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\_ViewStart.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\appsettings.json
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.exe
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.deps.json
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.runtimeconfig.json
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.runtimeconfig.dev.json
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.pdb
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.Views.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\SourceNet.Views.pdb
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.Entity.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.pdb
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.db.dll.config
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MyApp.Entity.pdb
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.AssemblyReference.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.AssemblyInfoInputs.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.AssemblyInfo.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.CoreCompileInputs.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.MvcApplicationPartsAssemblyInfo.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorAssemblyInfo.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorAssemblyInfo.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\staticwebassets\SourceNet.StaticWebAssets.Manifest.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\staticwebassets\SourceNet.StaticWebAssets.xml
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\SourceNet.styles.css
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.TagHelpers.input.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.TagHelpers.output.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorCoreGenerate.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Admin\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Admin\Privacy.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\Error.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\_Layout.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\_ViewImports.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\CMS\Views\_ViewStart.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\AboutUs\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Account\ForgotPassword.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Account\SignIn.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Account\SignUp.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\ContactUs\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Home\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Home\Privacy.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\OurTeam\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocAnalytics.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocDocsign.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocDocuments.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocHr.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocLogbook.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocSmartLogin.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Product\VeridocSupplyChain.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\AutomationSystem.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\EcommerceApplications.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\InternetService.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\Parking.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\PaymentSolutions.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\RevenueSystems.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\SecuredSystems.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Services\SystemDevelopment.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\Error.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\_Layout.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\Technology\Index.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\ArtisanLoaf.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\ArtisanLoafVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AssignmentSheet.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AssignmentSheetVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AustralianPassport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AustralianPassportVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AviationId.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\AviationIdVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\BabyFormula.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\BabyFormulaVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\BankStatement.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\BankStatementVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CBDOil.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CBDOilVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CholesterolHealthManager.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CholesterolHealthManagerVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Coffee.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CoffeeVerication.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CoronaVirus.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CreditReport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\CreditReportVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DeliveryDistribution.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DeliveryDistributionVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DigitalDriverLicence.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DigitalDriverLicenceVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Document.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DogFood.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DogFoodVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DriverLicence.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\DriverLicenceVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\EmployeeIdCard.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\EmployeeIdData.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\EmployeeIdDataVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\ExpressShipping.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\ExpressShippingVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Food.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\GMOfreeCorn.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\GMOfreeCornVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\HealthCard.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\HealthCardVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\HealthCareCard.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\HealthCareCardVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\HealthSolution.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\IdCard.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Insullin.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\InsullinVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\LandCertificate.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\LandCertificateVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\LandTiles.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\MonthlyTimeSheet.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\MonthlyTimeSheetVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Passport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\PenicillinPotassium.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\PenicillinPotassiumVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Pharma.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\PNGPassport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\PNGPassportVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\SupplyChain.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\TanzanianPassport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\TanzanianPassportVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\TimeSheet.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Transport.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\UniversityCertificate.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\UniversityCertificateVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\VerifiedDriver.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\VerifiedDriverVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\WeaklyTimeSheet.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\WeaklyTimeSheetVerification.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\Wine.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\UseCases\WineVerication.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\_ViewImports.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\Razor\Areas\Website\Views\_ViewStart.cshtml.g.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorTargetAssemblyInfo.cache
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.RazorTargetAssemblyInfo.cs
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.Views.pdb
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.csproj.CopyComplete
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.dll
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.pdb
+F:\YourFlow project\SourceNet\SourceNet\obj\Debug\netcoreapp3.1\SourceNet.genruntimeconfig.cache
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MailKit.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\MimeKit.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+F:\YourFlow project\SourceNet\SourceNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll

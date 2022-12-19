@@ -1,0 +1,82 @@
+
+
+/*----------poppins------------*/
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Black.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-BlackItalic.ttf) format('ttf');
+}
+
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Bold.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-BoldItalic.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-ExtraBold.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-ExtraBoldItalic.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-ExtraLight.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-ExtraLightItalic.ttf) format('ttf');
+}
+@font-face {
+   font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Italic.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Light.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-LightItalic.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Medium.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-MediumItalic.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Regular.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-SemiBold.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-SemiBoldItalic.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-Thin.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/Poppins-ThinItalic.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../Fonts/) format('ttf');
+}
+/*----------overpass font Ends------------*/

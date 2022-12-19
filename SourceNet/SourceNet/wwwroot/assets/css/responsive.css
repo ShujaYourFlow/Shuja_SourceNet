@@ -1,0 +1,301 @@
+@media only screen and (max-device-width : 2560px) {
+}
+
+@media only screen and (max-width: 1920px) {
+
+}
+
+@media only screen and (max-width: 1800px) {
+
+}
+
+@media only screen and (max-width: 1600px) {
+    .footer-section .social-icons-footer a svg {
+        font-size: 28px;
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+        padding: 10px;
+    }
+    .footer-section .social-icons-footer {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width : 1440px) {
+.container{
+    max-width: 90%;
+}
+h1{
+    font-size: 30px;
+}
+h2 {
+    font-size: 40px;
+}
+p {
+    font-size: 16px;
+}
+h4 {
+    font-size: 25px;
+}
+.home-page .home-banner {
+    min-height: 550px;
+    padding: 90px 0px;
+    padding-bottom: 0px;
+}
+
+
+.footer-section .social-icons-footer a svg {
+    font-size: 26px;
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+    padding: 10px;
+}
+.checkbox label {
+    font-size: 16px;
+}
+.footer-section .btn-2 {
+    padding: 12px 5px;
+    width: 100%;
+}
+.footer-section .social-icons-footer {
+    margin-top: 25px;
+}
+.footer-content-one {
+    width: 80%;
+    margin: 0 auto;
+}
+.footer-content ul li {
+    font-size: 16px;
+}
+.contact-us-list li span {
+    min-width: 32px;
+}
+.contact-us-list li span svg {
+    font-size: 20px;
+}
+}
+
+
+@media only screen  and (max-width: 1200px) {
+}
+
+@media only screen  and (max-width: 1024px) {
+
+
+
+}
+
+@media only screen  and (max-width: 991px) {
+    section{
+        padding: 60px 0px 40px 0px;
+    }
+    .about-sourcenet {
+        padding: 40px 0px 30px 0px;
+    }
+    .container-md, .container-sm, .container {
+        max-width: 90%;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    h6 {
+        font-size: 25px;
+    }
+    .banner-left-content {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .about-sourcenet{
+        text-align: center;
+    }
+    .about-sourcenet .row {
+        padding-bottom: 40px;
+    }
+    .about-sourcenet .row:last-of-type {
+        padding-bottom: 0px;
+    }
+    .about-sourcenet h2 {
+        margin-top: 15px;
+    }
+    .about-sourcenet p {
+        margin: 15px 0px;
+    }
+    .next-client{
+        text-align: center;
+    }
+    .next-client-head {
+        margin-bottom: 5px;
+    }
+    .next-client-right {
+        width: 100%;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .about-content {
+        width: 90%;
+        margin: auto;
+    }
+    h4 {
+        font-size: 24px;
+        color: #000000;
+        font-weight: 500;
+    }
+    .about-section-left {
+        padding: 0px 20px;
+    }
+    .service-box {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .services .row {
+        justify-content: center;
+    }
+    .about-section-left{
+        margin-bottom: 25px;
+    }
+    .footer-content-one {
+    width: 100%;
+}
+.footer-content {
+    width: 100%;
+}
+.about-banner , .contact-banner , .offer-banner , .team-banner{
+    min-height: 480px !important;
+}
+.home-page .home-banner {
+    padding-bottom: 50px;
+}
+.about-sourcenet img{
+    margin-top: 30px;
+}
+.mob-num-sec {
+    justify-content: center;
+}
+.mail-sec {
+    justify-content: center;
+}
+}
+@media only screen  and (max-width: 767px) {
+    .container-md, .container-sm, .container {
+        max-width: 90%;
+    }
+    .home-banner {
+        min-height: 750px;
+        padding: 125px 0px;
+    }
+    .footer-section {
+        text-align: center;
+    }
+    .footer-content ul li {
+        display: flex;
+        justify-content: center;
+    }
+    .footer-section h4 {
+        margin-bottom: 25px;
+        color: #FFFFFF;
+    }
+    .footer-content {
+        margin-top: 30px !important;
+    }
+    .team-box {
+        margin-bottom: 15px;
+    }
+}
+@media only screen  and (max-width: 425px) {
+    .home-banner .btn-2 {
+        font-size: 13px;
+    }
+    .home-banner .btn-3 {
+        font-size: 13px;
+    }
+    .ict-services .btn-2{
+        margin-right: 0;
+    }
+    
+    .home-banner .banner-btn-sec .btn-2 {
+        padding: 10px 15px !important;
+        font-size: 11px;
+    }
+    .home-banner .banner-btn-sec .btn-3 {
+        padding: 10px 15px !important;
+        font-size: 11px;
+    }
+}
+
+
+@media only screen  and (max-width: 375px) {
+	
+	
+}
+
+@media only screen  and (max-width: 320px) {
+	
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {}
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+@media (min-width: 525px) and (max-width: 767px) {}
+
+@media (min-width: 375px) and (max-width: 524px) {}
+
+@media (min-width: 320px) and (max-width: 374px) {}
+
+@media only screen  and (max-width: 660px) {
+    
+    .banner-btn-sec{
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    .home-banner .banner-btn-sec .btn-2 {
+        margin-right: 0px;
+        width: 50%;
+        margin: auto;
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .home-banner .banner-btn-sec .btn-3 {
+        width: 70%;
+        margin: auto;
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .ict-services .banner-btn-sec  {
+       flex-direction: row;
+       justify-content: center;
+    }
+    .ict-services .banner-btn-sec  .btn-2{
+       margin-right: 10px;
+     }
+}
+@media only screen  and (max-width: 575px) {
+    h1 {
+        font-size: 26px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    .ict-services .banner-btn-sec  {
+        flex-direction: column;
+     }
+     .ict-services .banner-btn-sec  .btn-2{
+        margin-right: 0px;
+        margin-bottom: 5px;
+      }
+}

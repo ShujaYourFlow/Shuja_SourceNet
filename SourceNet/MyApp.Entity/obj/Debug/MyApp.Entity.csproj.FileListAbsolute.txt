@@ -1,0 +1,57 @@
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\MyApp.Entity.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\MyApp.Entity.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CoreCompileInputs.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\obj\Debug\MyApp.Entity.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\obj\Debug\MyApp.Entity.pdb
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\obj\Debug\MyApp.Entity.csprojAssemblyReference.cache
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Buffers.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Memory.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Numerics.Vectors.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Buffers.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Memory.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Numerics.Vectors.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\YourFlow\SOS\SOS_New_V1\SOS_Buyer\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CopyComplete
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\MyApp.Entity.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\MyApp.Entity.pdb
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Buffers.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Memory.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Numerics.Vectors.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Buffers.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Memory.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Numerics.Vectors.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.AssemblyReference.cache
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CoreCompileInputs.cache
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CopyComplete
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.dll
+E:\YourFlow\SourceNets\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.pdb
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\MyApp.Entity.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\MyApp.Entity.pdb
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Buffers.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Memory.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Numerics.Vectors.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Buffers.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Memory.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Numerics.Vectors.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\YourFlow project\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.AssemblyReference.cache
+F:\YourFlow project\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CoreCompileInputs.cache
+F:\YourFlow project\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CopyComplete
+F:\YourFlow project\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.dll
+F:\YourFlow project\SourceNet\MyApp.Entity\obj\Debug\MyApp.Entity.pdb

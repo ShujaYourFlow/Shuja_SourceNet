@@ -1,0 +1,559 @@
+/* 
+Ace Responsive Menu Plugin
+Version: 1.0
+Author: Samson Onna
+E-mail: samson3d@gmail.com
+----------------------------------------*/
+/* Import Fonts
+----------------------------------------*/
+
+/* Ace Responsive Menu
+----------------------------------------*/
+a {
+    text-shadow: none;
+    color: #0d638f;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.ace-responsive-menu {
+	background: #fff;
+}
+.ace-responsive-menu li{
+    list-style: none;
+}
+.ace-responsive-menu li ul {
+    display:none;
+}
+.ace-responsive-menu > li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    float: left;
+}
+.ace-responsive-menu > li > a 
+{
+		display: block;
+		position: relative;
+		margin: 0;
+		border: 0px;
+		padding: 9px 15px;
+		text-decoration: none;
+		font-size: 13px;		
+		color: #000;
+        text-transform: uppercase;
+}
+
+.ace-responsive-menu li a i {
+    padding-right: 5px;
+    
+}
+.ace-responsive-menu > li > a i {
+    font-size: 16px;
+    text-shadow: none;
+    
+}
+.ace-responsive-menu li ul.sub-menu li a i {
+    padding-right: 10px;
+}
+
+.ace-responsive-menu li .menu-active {
+    position: relative;
+}
+.ace-responsive-menu > li > a > .arrow:before {  
+    margin-left: 15px;
+    display: inline;
+    font-size: 16px;
+    font-family: "Font Awesome 5 Pro";
+    height: auto;
+    content: "\f107";
+    font-weight: 300;
+    text-shadow: none;
+    width: 10px;
+    display: inline-block;
+}
+.ace-responsive-menu li ul.sub-menu li > a > .arrow:before {
+    content: "\f105" !important;
+}
+.ace-responsive-menu > li > ul.sub-menu {
+    display: none;
+    list-style: none;
+    clear: both;
+    margin: 0;
+    position: absolute;
+}
+
+/*.ace-responsive-menu li ul.sub-menu > li {
+    width: 185px;
+}*/
+
+.ace-responsive-menu > li > ul.sub-menu > li {
+    position: relative;
+}
+.ace-responsive-menu > li > ul.sub-menu > li ul.sub-menu {
+    position: absolute;
+    left: 185px;
+    top: 0px;
+    display: none;
+    list-style: none;
+}
+.ace-responsive-menu > li > ul.sub-menu > li ul.sub-menu > li ul.sub-menu {
+    position: absolute;
+    left: 185px;
+    top: 0px;
+    display: none;
+    list-style: none;
+}
+.ace-responsive-menu > li > ul.sub-menu li > a > .arrow:before {
+    float: right;
+    margin-top: 1px;
+    margin-right: 0px;
+    display: inline;
+    font-size: 16px;
+    font-family: "Font Awesome 5 Pro";
+    height: auto;
+    content: "\f104";
+    font-weight: 300;
+    text-shadow: none;
+}
+
+/* Menu Toggle Btn
+----------------------------------------*/
+.menu-toggle {
+    display: none;
+    float: left;
+    width: 100%;
+    background: none;
+}
+.menu-toggle h3 {
+    float: left;
+    color: #FFF;
+    padding: 0px 10px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.menu-toggle .icon-bar {
+    display: block !important;
+    width: 20px;
+    height: 3px;
+    background-color: #FFFFFF !important;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    /*-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);*/
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+    /*box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);*/
+    margin: 3px;
+}
+.menu-toggle .icon-bar:hover {
+    background-color: #FFFFFF !important;
+}
+.menu-toggle #menu-btn 
+{
+    float: right;
+    background: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+	position:absolute;
+	top:12px;
+	right:-8px;
+}
+.hide-menu {
+    display: none;
+}
+
+
+/* Accordion Menu Styles
+----------------------------------------*/
+
+ul[data-menu-style="accordion"] {
+    width: 250px;
+}
+ul[data-menu-style="accordion"] > li {    
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    float: none !important;
+}
+ul[data-menu-style="accordion"] > li:first-child {
+    border-top: 2px solid #FD5025;
+}
+ul[data-menu-style="accordion"] li ul.sub-menu > li {
+    width: 100%;
+}
+ul[data-menu-style="accordion"] > li > a > .arrow:before {
+    float: right;
+    content: "\f105";
+}
+ul[data-menu-style="accordion"] li.menu-active > a > .arrow:before {
+    content: "\f107" !important;
+}
+ul[data-menu-style="accordion"] > li > ul.sub-menu {
+    position: static;
+}
+ul[data-menu-style="accordion"] > li > a i {
+    padding-right: 10px;
+    
+}
+ul[data-menu-style="accordion"] > li > ul.sub-menu > li ul.sub-menu {
+    position: static;
+}
+ul[data-menu-style="accordion"] > li > ul.sub-menu > li ul.sub-menu > li ul.sub-menu {
+    position: static;
+}
+ul[data-menu-style="accordion"] > li {
+    border-bottom: 1px solid #242424;
+}
+ul[data-menu-style="accordion"] li a:hover {
+    background: #272727 !important;
+}
+ul[data-menu-style="accordion"] ul.sub-menu li.menu-active > a > .arrow:before {
+    content: "\f107" !important;
+}
+
+/* Vertical Menu Styles
+----------------------------------------*/
+
+ul[data-menu-style="vertical"] {
+    width: 200px;
+}
+ul[data-menu-style="vertical"] > li {
+    float: none;
+}
+ul[data-menu-style="vertical"] > li:first-child {
+    border-top: 2px solid #FD5025;
+}
+ul[data-menu-style="vertical"] li ul.sub-menu > li {
+    width: 100%;
+}
+ul[data-menu-style="vertical"] > li > a > .arrow:before {
+    float: right;
+    content: "\f105";
+}
+ul[data-menu-style="vertical"] > li.menu-active {
+position:relative;
+}
+ul[data-menu-style="vertical"] > li > ul.sub-menu {
+    position: absolute;
+    left:200px;
+    top:0px;
+    width:200px;
+}
+ul[data-menu-style="vertical"] > li > a i {
+    padding-right: 10px;
+    
+}
+ul[data-menu-style="vertical"]> li > ul.sub-menu > li ul.sub-menu {
+    position: absolute;
+    width:200px;
+    left: 200px;
+}
+ul[data-menu-style="vertical"] > li > ul.sub-menu > li ul.sub-menu > li ul.sub-menu {
+    position: absolute;
+    width:200px;
+    left: 200px;
+}
+ul[data-menu-style="vertical"] > li {
+    border-bottom: 1px solid #242424;
+}
+ul[data-menu-style="vertical"] li a:hover {
+    background: #272727 !important;
+}
+
+.mobile-nevbar {display: none;}
+
+
+
+.arrow-mega-menu 
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 4px;
+    right: 15px;
+}
+.arrow-mega-menu::after 
+{
+    content: "\f107";
+    color: #7f7f7f;
+    font-size: 22px;
+    font-weight: 500;
+    position: relative;
+    font-family: "Font Awesome 6 Pro";
+    top: 1px;
+    left: 15px;
+}
+.mobile-mega-menu 
+{
+    width: 100%;
+    height: auto;
+}
+.mobile-mega-menu span 
+{
+    display: block;
+    font-size: 14px;
+    position: relative;
+    border-bottom: 1px solid #e6e6e6;
+    padding: 10px 15px 10px 85px;
+    color: #000;
+}
+.mobile-mega-menu span i 
+{
+    position: absolute;
+    left: 60px;
+    color: #7f7f7f;
+    font-size: 17px;
+}
+.arrow-mega-menu[aria-expanded="true"]::after 
+{
+    content: "\f106";
+    color: #000000;
+}
+.mobile-mega-menu a 
+{
+    padding: 0 !important;
+    border: 0 !important;
+}
+.mega-title-active 
+{
+    color: #023536 !important;
+}
+.mega-title-active .nav-menu-img-hover 
+{
+    display: inline-block !important;
+}
+.mega-title-active .nav-menu-img 
+{
+    display: none;
+}
+
+
+
+/* Responsive Menu Styles
+----------------------------------------*/
+
+/*Note: change the max-width asper your requirment and change the same in aceResponsiveMenu({resizeWidth: "768" }) function*/
+
+
+ 
+@media screen and (max-width: 1200px) {
+    header {
+        padding-top: 20px;
+    }
+    #cssmenu.desktop-nevbar.main-nav {display: none !important;}
+    .mobile-nevbar {display: block !important;}
+    }
+    .ace-responsive-menu {
+        float: left;
+        width: 100%;
+        margin-top:20px;
+        background-color: #14475f;
+    }
+    .ace-responsive-menu > li {
+        border-bottom: 1px solid #e6e6e6;
+       float: none;
+    } 
+    .close-button-navbar {
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: -16px;
+        left: -2px;
+    }
+    .navbar-remove-icon::before {
+        content: '\d7';
+        color: #fff;
+        width: 100%;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        font-size: 34px;
+    }
+	 #navbar-close span {color: #ffffff !important;} 
+
+    /* .mobile-nevbar .menu-toggle { */
+        /* position: absolute; */
+        /* top: 13px; */
+        /* right: 5px; */
+    /* } */
+.menu-active .sub-menu-top-shadow{box-shadow: 0 0 14px -4px #777;}
+	.mobile-nevbar .sub-menu .btn.btn-default:hover {
+		border-bottom-color: #e6e6e6 !important;
+	}
+	.login-register-btn-mobile .btn.btn-default.before-register-btn.register-before-logindashboard.register-white-btn:hover, .login-register-btn-mobile .btn.btn-default.before-register-btn.register-before-logindashboard.register-white-btn:focus {
+		background: #198f51 !important;
+		color: #fff !important;
+		border: none !important;
+		box-shadow: inset 550px 0 0 0 #198f51 !important;
+	}
+	.login-register-btn-mobile .btn.btn-default.before-login-btn.login-green-btn:hover, .login-register-btn-mobile a.btn.btn-default.before-login-btn.login-green-btn:focus {
+		background: #198f51 !important;
+		color: #fff !important;
+		border: none !important;
+		box-shadow: inset 550px 0 0 0 #198f51 !important;
+	}
+	.login-register-btn-mobile {
+		padding: 20px 0 !important;
+	}
+	.login-register-btn-mobile-center {
+		margin: 0 auto;
+		display: table;
+	}
+    .login-register-btn-mobile .btn.btn-default.before-register-btn.register-before-logindashboard.register-white-btn {
+        background-color: #176939;
+        border: none !important;
+        color: #fff;
+        padding: 10px 20px !important;
+        box-shadow: inset 0 0 0 0 #25984E !important;
+        transition: all 1s ease !important;
+        display: inline-block;
+        font-size: 18px;
+        font-weight: normal;
+        text-transform: capitalize !important;
+    }
+    .login-register-btn-mobile .btn.btn-default.before-login-btn.login-green-btn {
+        background-color: #176939 !important;
+        color: #fff !important;
+        border: none !important;
+        padding: 10px 20px !important;
+        box-shadow: inset 0 0 0 0 #25984E !important;
+        transition: all 1s ease !important;
+        display: inline-block;
+        font-size: 18px;
+        font-weight: normal;
+        text-transform: capitalize !important;
+    }
+	.login-register-btn-mobile .btn-default span {
+		padding: 0 !important;
+		font-size: 20px !important;
+	}
+	.login-register-btn-mobile-center a {
+		margin: 0 15px;
+	}
+
+.ace-responsive-menu li ul.sub-menu a {
+    color: #7f7f7f;
+    border-bottom: 1px solid #e6e6e6;
+    text-transform: unset;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+    
+.mobile-nevbar .btn-default span 
+{
+    padding-left: 10px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #FFFFFF !important;
+}
+	
+.ace-responsive-menu li ul.sub-menu li a 
+{
+    padding: 10px 10px 10px 25px;
+    text-decoration: none;
+    font-size: 13px;	
+	text-align: left;
+	width:100%;
+}
+
+.mobile-nevbar .nav-menu-img, .mobile-nevbar .nav-menu-img-hover 
+{
+	width: 20px;
+}
+.sub-menu.slide {background: #f9f9f9;}
+.demo {width:96%;padding:2%;}
+    ul[data-menu-style="vertical"] , ul[data-menu-style="accordion"],
+    ul[data-menu-style="vertical"] li ul.sub-menu {
+        width: 100% !important;
+    }
+	
+    .ace-responsive-menu > li > a {
+        color: #FFFFFF;
+    }
+    .ace-responsive-menu > li > .btn-1 {
+        padding: 5px 30px;
+        margin: 10px 10px;
+    }
+    .ace-responsive-menu > li > .btn-2 {
+        padding: 5px 30px;
+        margin: 10px 10px;
+    }
+      
+    .ace-responsive-menu li a:hover {
+        color: #FFFFFF !important;
+    }
+        
+    .ace-responsive-menu > li > a i {
+        padding-right: 10px;
+        
+    }
+.ace-responsive-menu > li > a > .arrow::before 
+{
+    float: right;
+    content: "\f107";
+    font-family: 'Font Awesome 6 pro';
+    color: #FFFFFF;
+    font-size: 25px;
+    width: 25px;
+    position: relative;
+    bottom: 8px;
+
+}
+
+	li.menu-active > a > .arrow:before {
+		content: "\f106" !important;
+		color: #FFFFFF;
+	}
+    .ace-responsive-menu li ul.sub-menu > li {
+        width: 100%;
+    }
+    .ace-responsive-menu li ul.sub-menu li ul.sub-menu li a
+        {
+        padding-left: 30px;
+    }  
+    .ace-responsive-menu li ul.sub-menu li ul.sub-menu li ul.sub-menu li a 
+       {
+        padding-left: 50px;
+    }  
+    .ace-responsive-menu > li > ul.sub-menu {
+        position: static;
+        background-color: #14475f;
+    }
+    .ace-responsive-menu > li > ul.sub-menu > li ul.sub-menu {
+        position: static;
+    }
+    .ace-responsive-menu > li > ul.sub-menu > li ul.sub-menu > li ul.sub-menu {
+        position: static;
+    }
+    .ace-responsive-menu li ul.sub-menu li.menu-active > a > .arrow:before {
+        content: "\f107" !important;
+    }
+
+
+
+
+
+
+
+@media(max-width:460px) {
+	.login-register-btn-mobile .login-register-btn-mobile-center .btn.btn-default.before-login-btn.login-green-btn, .login-register-btn-mobile .btn.btn-default.before-register-btn.register-before-logindashboard.register-white-btn {
+		margin: 0 5px;
+		padding: 10px 10px !important;
+	}
+}
+
+
+    /* .logo-full-width img { */
+    /* width: 234px; */
+/* } */
+.login-register-btn-mobile .login-register-btn-mobile-center .btn.btn-default.before-login-btn.login-green-btn, .login-register-btn-mobile .btn.btn-default.before-register-btn.register-before-logindashboard.register-white-btn 
+{
+	margin: 0 2px;padding: 10px 10px !important;
+}

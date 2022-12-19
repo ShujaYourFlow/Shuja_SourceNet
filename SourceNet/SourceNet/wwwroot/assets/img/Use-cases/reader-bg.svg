@@ -1,0 +1,55 @@
+<svg id="Group_1101" data-name="Group 1101" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700.002" height="1135.823" viewBox="0 0 700.002 1135.823">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.121" x2="0.5" y2="0.498" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.467" stop-color="#fcfcfc"/>
+      <stop offset="0.714" stop-color="#f4f4f4"/>
+      <stop offset="0.909" stop-color="#e7e7e7"/>
+      <stop offset="1" stop-color="#dedede"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="0.5" y1="0.043" x2="0.5" y2="0.731" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a5c14e"/>
+      <stop offset="0.34" stop-color="#6aa950"/>
+      <stop offset="0.67" stop-color="#4d8847"/>
+      <stop offset="1" stop-color="#39653c"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_13111" data-name="Path 13111" d="M1621.977,109.957c-252.778,0-457.7,204.916-457.7,457.7s204.919,457.7,457.7,457.7" transform="translate(-921.975 -5.305)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g id="Group_1100" data-name="Group 1100" transform="translate(0)">
+    <g id="Group_1098" data-name="Group 1098" transform="translate(0 246.978)">
+      <line id="Line_23" data-name="Line 23" x1="165.085" y1="69.399" transform="translate(117.647 71.638)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="26.513" cy="26.513" rx="26.513" ry="26.513" transform="translate(292.469 174.655) rotate(-157.5)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="15.35" cy="15.35" rx="15.35" ry="15.35" transform="translate(262.771 124.664)" fill="#85ba51"/>
+      <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="73.957" cy="73.957" rx="73.957" ry="73.957" transform="translate(41.863)" fill="url(#linear-gradient-2)"/>
+      <text id="_02" data-name="02" transform="translate(81.87 108.812)" fill="#85ba51" font-size="65" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">02</tspan></text>
+      <text id="STEP" transform="translate(93.553 47.841)" fill="#85ba51" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STEP</tspan></text>
+      <line id="Line_25" data-name="Line 25" x1="168.381" transform="translate(82.297 316.302)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="26.513" cy="26.513" rx="26.513" ry="26.513" transform="translate(257.118 351.408) rotate(-157.5)" fill="url(#linear-gradient)"/>
+      <path id="Path_13116" data-name="Path 13116" d="M1346.881,277.844A15.351,15.351,0,1,0,1331.53,293.2,15.35,15.35,0,0,0,1346.881,277.844Z" transform="translate(-1088.76 38.921)" fill="#569751"/>
+      <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="73.957" cy="73.957" rx="73.957" ry="73.957" transform="translate(0 246.977)" fill="url(#linear-gradient-2)"/>
+      <text id="_03" data-name="03" transform="translate(40.799 355.788)" fill="#569751" font-size="65" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">03</tspan></text>
+      <text id="STEP-2" data-name="STEP" transform="translate(47.577 294.817)" fill="#569751" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STEP</tspan></text>
+      <line id="Line_27" data-name="Line 27" x1="169.813" y2="71.387" transform="translate(117.647 491.439)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="26.513" cy="26.513" rx="26.513" ry="26.513" transform="translate(293.4 530.951) rotate(-157.5)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="15.35" cy="15.35" rx="15.35" ry="15.35" transform="translate(263.701 480.962)" fill="#3c6b3d"/>
+      <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="73.957" cy="73.957" rx="73.957" ry="73.957" transform="translate(53.026 493.954)" fill="url(#linear-gradient-2)"/>
+      <text id="_04" data-name="04" transform="translate(88.033 603.768)" fill="#3c6b3d" font-size="66" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">04</tspan></text>
+      <text id="STEP-3" data-name="STEP" transform="translate(99.716 541.796)" fill="#3c6b3d" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STEP</tspan></text>
+    </g>
+    <g id="Group_1099" data-name="Group 1099" transform="translate(242.803)">
+      <line id="Line_21" data-name="Line 21" x1="95.655" y1="124.067" transform="translate(83.227 76.742)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="26.513" cy="26.513" rx="26.513" ry="26.513" transform="translate(195.255 234.181) rotate(-157.5)" fill="url(#linear-gradient)"/>
+      <path id="Path_13114" data-name="Path 13114" d="M1284.68,152.647A15.35,15.35,0,1,0,1269.332,168,15.348,15.348,0,0,0,1284.68,152.647Z" transform="translate(-1088.425 46.893)" fill="#afcc57"/>
+      <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="73.957" cy="73.957" rx="73.957" ry="73.957" transform="translate(0)" fill="url(#linear-gradient-2)"/>
+      <text id="_01" data-name="01" transform="translate(38.635 109.813)" fill="#afcc57" font-size="66" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">01</tspan></text>
+      <text id="STEP-4" data-name="STEP" transform="translate(41.946 47.842)" fill="#afcc57" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STEP</tspan></text>
+      <line id="Line_29" data-name="Line 29" x1="102.085" y2="132.408" transform="translate(83.227 921.129)" fill="none" stroke="#233755" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_40" data-name="Ellipse 40" cx="26.513" cy="26.513" rx="26.513" ry="26.513" transform="translate(195.72 963.055) rotate(-157.5)" fill="url(#linear-gradient)"/>
+      <path id="Path_13119" data-name="Path 13119" d="M1284.52,403.2a15.35,15.35,0,1,0-15.348,15.348A15.348,15.348,0,0,0,1284.52,403.2Z" transform="translate(-1087.8 525.211)" fill="url(#linear-gradient-10)"/>
+      <ellipse id="Ellipse_41" data-name="Ellipse 41" cx="73.957" cy="73.957" rx="73.957" ry="73.957" transform="translate(0 987.908)" fill="url(#linear-gradient-2)"/>
+      <text id="_05" data-name="05" transform="translate(39.798 1097.721)" fill="#3c6b3d" font-size="66" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">05</tspan></text>
+      <text id="STEP-5" data-name="STEP" transform="translate(54.272 1035.75)" fill="#3c6b3d" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STEP</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1562 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - SourceNet</title>
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />*@
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />*@
+    <link rel="apple-touch-icon" sizes="180x180" href="~/assets/img/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/assets/img/fav//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/assets/img/fav//favicon-16x16.png">
+    <link rel="manifest" href="~/assets/img/fav//site.webmanifest">
+    <link rel="mask-icon" href="~/assets/img/fav//safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!------Bootstrap Link------->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.css">
+    <!------Font Awesome Link------->
+    <link rel="stylesheet" href="~/assets/css/all.min.css">
+    <!------Default Font Link------->
+    <link rel="stylesheet" href="~/assets/css/fonts.css">
+    <!------Custom css Link------->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale.css" /> -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/product-menu-css.css">
+    <link rel="stylesheet" href="~/assets/css/custom-styles.css">
+    <link rel="stylesheet" href="~/assets/css/ace-responsive-menu.css">
+    <link rel="stylesheet" href="~/assets/css/jquery.floating-social-share.min.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <link rel="stylesheet" href="~/assets/css/map.css">
+</head>
+<body>
+    <a id="back-to-top" href="#" class="btn btn-light back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>
+    <main class="home-page">
+        <header id="header" class="new-header-ui inner-page-header">
+            <div class="container">
+                <!-- TOP BAR -->
+                <div class="header clearfix ">
+                    <div class="header_logo">
+                        <a onclick="location.href='@Url.Action("Index","Home")'" class="logo logo-full-width">
+                            <img class="img-fluid" src="~/assets/img/logo-header.svg" alt="AzaniaInvestment" />
+                        </a>
+                    </div>
+                    <div class="mobile-search">
+                        <div class="header-search-wrapper">
+                            <span class="search-main">
+                                <i class="fa fa-search"></i>
+                            </span>
+                            <div class="search-form-main clearfix">
+                                <form role="search" method="get" class="search-form" action="sitename.com/">
+                                    <label>
+                                        <input type="search" class="search-field" placeholder="Search …" value=""
+                                               name="s">
+                                    </label>
+                                    <input type="submit" class="search-submit" value="Search">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="mobile-search">
+                        <div class="header-search-wrapper">
+                            <span class="search-main">
+                                <i class="fa fa-search"></i>
+                            </span>
+                            <div class="search-form-main clearfix">
+                                <form role="search" method="get" class="search-form" action="sitename.com/">
+                                    <label>
+                                        <input type="search" class="search-field" placeholder="Search …" value=""
+                                               name="s">
+                                    </label>
+                                    <input type="submit" class="search-submit" value="Search">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-bar-top">
+                        <nav class="desktop-nevbar main-nav navbar-collapse collapse mega-menu" id="cssmenu">
+                            <div class="button mobile-menu-btn"></div>
+
+                            <ul class="nav nav-pills header-right-align mx-auto">
+                                <!-- <li class="menu-item active">
+                                    <a href="index.html">Home</a>
+                                </li> -->
+                                <li class="menu-item">
+                                    <a asp-controller="AboutUs" asp-action="Index">About Us</a>
+                                    @*<a onclick="location.href='@Url.Action("Index","AboutUs")'">About Us</a>*@
+                                </li>
+                                <li class="menu-item">
+                                    <a asp-controller="Services" asp-action="Index">Services</a>
+                                </li>
+                                <li>
+                                <li id="new-mega-menu-dropdown"
+                                    class="dropdown dropdown-menu-menu-btn menu-item  drop-menu-main arrow-down solution-sub-menu new-mega-menu-use-cases">
+                                    <a id="new-mega-menu-id" href="javascript:void(0)" class="solution-main-page">
+                                        Use
+                                        Cases
+                                        <span class="down-arrow-navbar"><i class="down"></i></span>
+                                    </a>
+                                    <div class="dropdown-menu new-mega-dropdown-menu">
+                                        <div class="new-mega-menu-left-list">
+                                            <h3>
+                                                BROWSE BY CATEGORY <span class="new-mega-menu-close">
+                                                    <i class="fa fa-times"></i>
+                                                </span>
+                                            </h3>
+                                            <div class="new-mega-menu-category-list">
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("HealthSolution","UseCases")'"
+                                                           title="Visit our Health solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Health-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Health-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Health</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("HealthSolution","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Health solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Health-Icon-White.png"
+                                                                         alt="health" /><span>Health Solution</span>
+                                                                </a>
+                                                                <a onclick="location.href='@Url.Action("CoronaVirus","UseCases")'"
+                                                                   class="mega-menu-poc-btn mega-menu-poc-btn-blue"
+                                                                   title="Visit our Coronavirus solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Coronavirus-Icon-White.png"
+                                                                         alt="coronavirus" /><span>
+                                                                        Coronavirus
+                                                                        Solution
+                                                                    </span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("HealthCareCard","UseCases")'"
+                                                                       title="Find out more about International Health Care Card solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Health-poc.png"
+                                                                             alt="health" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("HealthCareCard","UseCases")'"
+                                                                           title="Find out more about International Health Care Card solution">
+                                                                            International
+                                                                            Health Care Card
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("SupplyChain","UseCases")'"
+                                                           title="Visit our Supply Chain solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Supply-Chain-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Supply-Chain-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Supply Chain</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("SupplyChain","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Supply Chain solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Supply-Chain-Icon-White.png"
+                                                                         alt="supplychain" />
+                                                                    <span>Supply Chain Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("DeliveryDistribution","UseCases")'"
+                                                                       title="Find out more about Delivery and Distribution solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Supply-Chain/Parcel-Delivery.png"
+                                                                             alt="parcel" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("DeliveryDistribution","UseCases")'"
+                                                                           title="Find out more about Delivery and Distribution solution">
+                                                                            Delivery
+                                                                            and Distribution
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("ExpressShipping","UseCases")'"
+                                                                       title="Find out more about Express Post Shipping solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Supply-Chain/Express-Post.png"
+                                                                             alt="expresspost" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("ExpressShipping","UseCases")'"
+                                                                           title="Find out more about Express Post Shipping solution">
+                                                                            Express
+                                                                            Post Shipping
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("Food","UseCases")'"
+                                                           title="Visit our Food solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Food-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Food-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Food</span>
+                                                            <i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("Food","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Food solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Food-Icon-White.png"
+                                                                         alt="food" />
+                                                                    <span>Food Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("Coffee","UseCases")'"
+                                                                       title="Find out more about Coffee solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Coffee.png"
+                                                                             alt="coffee" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("Coffee","UseCases")'"
+                                                                           title="Find out more about Coffee solution">Coffee</a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("Wine","UseCases")'"
+                                                                       title="Find out more about Wine solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Wine.png"
+                                                                             alt="wine" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("Wine","UseCases")'"
+                                                                           title="Find out more about Wine solution">Wine</a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("GMOfreeCorn","UseCases")'"
+                                                                       title="Find out more about GMO-Free Corn solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Popcorn.png"
+                                                                             alt="popcorn" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("GMOfreeCorn","UseCases")'"
+                                                                           title="Find out more about GMO-Free Corn solution">
+                                                                            GMO-Free
+                                                                            Corn
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("ArtisanLoaf","UseCases")'"
+                                                                       title="Find out more about Artisan Loaf solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Artisan-Loaf.png"
+                                                                             alt="artisanloaf" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("ArtisanLoaf","UseCases")'"
+                                                                           title="Find out more about Artisan Loaf solution">
+                                                                            Artisan
+                                                                            Loaf
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("BabyFormula","UseCases")'"
+                                                                       title="Find out more about Baby Formula solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Infant-Formula.png"
+                                                                             alt="food" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("BabyFormula","UseCases")'"
+                                                                           title="Find out more about Baby Formula solution">
+                                                                            Baby
+                                                                            Formula
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("DogFood","UseCases")'"
+                                                                       title="Find out more about Dog Food solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Food/Dog-Food.png"
+                                                                             alt="food" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("DogFood","UseCases")'"
+                                                                           title="Find out more about Dog Food solution">
+                                                                            Dog
+                                                                            Food
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("LandTiles","UseCases")'"
+                                                           title="Visit our Land Titles solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Land-Titles-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Land-Titles-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Land Titles</span>
+                                                            <i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("LandTiles","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Land Titles solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Land-Titles-Icon-White.png"
+                                                                         alt="landtitles" />
+                                                                    <span>Land Titles Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("LandCertificate","UseCases")'" 
+                                                                       title="Find out more about Certificate of Title solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Land-Titles/Certificate-of-Title.png"
+                                                                             alt="landtitles" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("LandCertificate","UseCases")'"
+                                                                           title="Find out more about Certificate of Title solution">
+                                                                            Certificate
+                                                                            of Title
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("Document","UseCases")'"
+                                                           title="Visit our Documents solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Documents-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Documents-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Documents</span>
+                                                            <i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("Document","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Documents solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Documents-Icon-White.png"
+                                                                         alt="documents" />
+                                                                    <span>Documents Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("UniversityCertificate","UseCases")'"
+                                                                       title="Find out more about University Certificate solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Documents/University-Certificate.png"
+                                                                             alt="documents" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("UniversityCertificate","UseCases")'"
+                                                                           title="Find out more about University Certificate solution">
+                                                                            University
+                                                                            Certificate
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("AssignmentSheet","UseCases")'"
+                                                                       title="Find out more about Assignment Cover Sheet solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/Documents/Assignment.png"
+                                                                             alt="documents" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("AssignmentSheet","UseCases")'"
+                                                                           title="Find out more about Assignment Cover Sheet solution">
+                                                                            Assignment
+                                                                            Cover Sheet
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("BankStatement","UseCases")'"
+                                                                       title="Find out more about Bank Statement solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/Documents/Bank-Statement.png"
+                                                                             alt="documents" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("BankStatement","UseCases")'"
+                                                                           title="Find out more about Bank Statement solution">
+                                                                            Bank
+                                                                            Statement
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("CreditReport","UseCases")'"
+                                                                       title="Find out more about Credit Report solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/Documents/Credit-Report.png"
+                                                                             alt="documents" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("CreditReport","UseCases")'"
+                                                                           title="Find out more about Credit Report solution">
+                                                                            Credit
+                                                                            Report
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("Pharma","UseCases")'"
+                                                           title="Visit our Pharmaceuticals solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Pharmaceuticals-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Pharmaceuticals-Icon-Black.png"
+                                                                 alt="category-img" /><span>Pharmaceuticals</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("Pharma","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Pharmaceuticals solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Pharmaceuticals-Icon-White.png"
+                                                                         alt="pharmaceuticals" /><span>
+                                                                        Pharmaceuticals
+                                                                        Solution
+                                                                    </span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("CBDOil","UseCases")'"
+                                                                       title="Find out more about CBD Oil solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Pharmaceuticals/CBD-Oil.png"
+                                                                             alt="pharmaceuticals" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("CBDOil","UseCases")'"
+                                                                           title="Find out more about CBD Oil solution">
+                                                                            CBD
+                                                                            Oil
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("Insullin","UseCases")'"
+                                                                       title="Find out more about Insulin solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Pharmaceuticals/Insulin.png"
+                                                                             alt="pharmaceuticals" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("Insullin","UseCases")'"
+                                                                           title="Find out more about Insulin solution">Insulin</a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("PenicillinPotassium","UseCases")'"
+                                                                       title="Find out more about Penicillin V Potassium solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Pharmaceuticals/Penicillin-V-Potassium.png"
+                                                                             alt="pharmaceuticals" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("PenicillinPotassium","UseCases")'"
+                                                                           title="Find out more about Penicillin V Potassium solution">
+                                                                            Penicillin
+                                                                            V Potassium
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("CholesterolHealthManager","UseCases")'"
+                                                                       title="Find out more about Cholesterol Health Manager solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Pharmaceuticals/Cholesterol-Health-Manager.png"
+                                                                             alt="pharmaceuticals" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("CholesterolHealthManager","UseCases")'"
+                                                                           title="Find out more about Cholesterol Health Manager solution">
+                                                                            Cholesterol
+                                                                            Health Manager
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("TimeSheet","UseCases")'"
+                                                           title="Visit our Timesheets solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Timesheets-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Timesheets-Icon-Black.png"
+                                                                 alt="category-img" /><span>Timesheets</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("TimeSheet","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Timesheets solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Timesheets-Icon-White.png"
+                                                                         alt="timesheet" />
+                                                                    <span>Timesheets Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("WeaklyTimeSheet","UseCases")'"
+                                                                       title="Find out more about Weekly Timesheet solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/Timesheets/Weekly-Timesheet.png"
+                                                                             alt="timesheet" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("WeaklyTimeSheet","UseCases")'"
+                                                                           title="Find out more about Weekly Timesheet solution">
+                                                                            Weekly
+                                                                            Timesheet
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("EmployeeIdData","UseCases")'"
+                                                                       title="Find out more about Employee ID Data solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Timesheets/Timesheet-With-Clock-In-Out-Data.png"
+                                                                             alt="timesheet" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("EmployeeIdData","UseCases")'"
+                                                                           title="Find out more about Employee ID Data solution">
+                                                                            Employee
+                                                                            ID Data
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("MonthlyTimeSheet","UseCases")'"
+                                                                       title="Find out more about Monthly Timesheet solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/Timesheets/Timesheet-Employee-Profile.png"
+                                                                             alt="timesheet" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("MonthlyTimeSheet","UseCases")'"
+                                                                           title="Find out more about Monthly Timesheet solution">
+                                                                            Monthly
+                                                                            Timesheet
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("Transport","UseCases")'"
+                                                           title="Visit our Transport solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Transport-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Transport-Icon-Black.png"
+                                                                 alt="category-img" /><span>Transport</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("Transport","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Transport solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Transport-Icon-White.png"
+                                                                         alt="transport" />
+                                                                    <span>Transport Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("VerifiedDriver","UseCases")'"
+                                                                       title="Find out more about Verified Ride Driver Check solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Transport/Verified-Ride-Driver-Check.png"
+                                                                             alt="transport" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("VerifiedDriver","UseCases")'"
+                                                                           title="Find out more about Verified Ride Driver Check solution">
+                                                                            Verified
+                                                                            Ride Driver Check
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("DigitalDriverLicence","UseCases")'"
+                                                                       title="Find out more about Digital Drivers Licence solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Transport/Digital-Driver-Licence.png"
+                                                                             alt="transport" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("DigitalDriverLicence","UseCases")'"
+                                                                           title="Find out more about Digital Drivers Licence solution">
+                                                                            Digital
+                                                                            Drivers Licence
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("IdCard","UseCases")'"
+                                                           title="Visit our Id Cards solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/ID-Cards-Icon-White.png"
+                                                                 alt="category-img">
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/ID-Cards-Icon-Black.png"
+                                                                 alt="category-img"><span>ID Cards</span><i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("IdCard","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our ID Cards solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/ID-Cards-Icon-White.png"
+                                                                         alt="id">
+                                                                    <span>ID Cards Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("AviationId","UseCases")'"
+                                                                       title="Find out more about Aviation ID solution">
+                                                                        <img class="img-border-mega-menu"
+                                                                             src="~/assets/img/Use-cases/mega-menu-poc/ID-Cards/Aviation.png"
+                                                                             alt="id">
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("AviationId","UseCases")'"
+                                                                           title="Find out more about Aviation ID solution">
+                                                                            Aviation
+                                                                            ID
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("DriverLicence","UseCases")'"
+                                                                       title="Find out more about Drivers Licence solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/ID-Cards/Driver-Licence.png"
+                                                                             alt="id">
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("DriverLicence","UseCases")'"
+                                                                           title="Find out more about Drivers Licence solution">
+                                                                            Drivers
+                                                                            Licence
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("EmployeeIdCard","UseCases")'"
+                                                                       title="Find out more about Employee ID Card solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/ID-Cards/Employee-ID-Card.png"
+                                                                             alt="id">
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("EmployeeIdCard","UseCases")'"
+                                                                           title="Find out more about Employee ID Card solution">
+                                                                            Employee
+                                                                            ID Card
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("HealthCard","UseCases")'"
+                                                                       title="Find out more about Health Card solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/ID-Cards/Health-Card.png"
+                                                                             alt="id">
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("HealthCard","UseCases")'"
+                                                                           title="Find out more about Health Card solution">
+                                                                            Health
+                                                                            Card
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a onclick="location.href='@Url.Action("Passport","UseCases")'"
+                                                           title="Visit our Passports solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Passports-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Passports-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Passports</span>
+                                                            <i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                    <div class="new-mega-menu-content-box">
+                                                        <div class="new-mega-menu-content-row">
+                                                            <div class="new-mega-menu-poc-btn-group">
+                                                                <a onclick="location.href='@Url.Action("Passport","UseCases")'"
+                                                                   class="mega-menu-poc-btn"
+                                                                   title="Visit our Passports solution page">
+                                                                    <img src="~/assets/img/Use-cases/new-mega-menu-icon/Passports-Icon-White.png"
+                                                                         alt="passport" />
+                                                                    <span>Passports Solution</span>
+                                                                </a>
+                                                            </div>
+                                                            <h3>PROOF OF CONCEPTS</h3>
+                                                            <div class="new-mega-menu-poc poc-grid-2">
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("AustralianPassport","UseCases")'"
+                                                                       title="Find out more about Australian Passport solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Passports/Australian-Passport-2.png"
+                                                                             alt="passport" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("AustralianPassport","UseCases")'"
+                                                                           title="Find out more about Australian Passport solution">
+                                                                            Australian
+                                                                            Passport
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("TanzanianPassport","UseCases")'"
+                                                                       title="Find out more about Tanzanian Passport solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Passports/Tanzania-Passport.png"
+                                                                             alt="passport" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("TanzanianPassport","UseCases")'"
+                                                                           title="Find out more about Tanzanian Passport solution">
+                                                                            Tanzanian
+                                                                            Passport
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="new-mega-menu-poc-list">
+                                                                    <a onclick="location.href='@Url.Action("PNGPassport","UseCases")'"
+                                                                       title="Find out more about Papua New Guinea Passport solution">
+                                                                        <img src="~/assets/img/Use-cases/mega-menu-poc/Passports/Papua-New-Guinea-Passport.png"
+                                                                             alt="passport" />
+                                                                    </a>
+                                                                    <h5>
+                                                                        <a onclick="location.href='@Url.Action("PNGPassport","UseCases")'"
+                                                                           title="Find out more about Papua New Guinea Passport solution">
+                                                                            PNG
+                                                                            Passport
+                                                                        </a>
+                                                                    </h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="new-mega-menu-category-name">
+                                                    <div class="new-mega-menu-name-li">
+                                                        <a href="useCase-pages/brand-trust.html"
+                                                           title="Visit our Brand Trust solution page">
+                                                            <img class="new-mega-icon"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Brand-Trust-Icon-White.png"
+                                                                 alt="category-img" />
+                                                            <img class="new-mega-icon-active"
+                                                                 src="~/assets/img/Use-cases/new-mega-menu-icon/Brand-Trust-Icon-Black.png"
+                                                                 alt="category-img" />
+                                                            <span>Brand Trust</span>
+                                                            <i class="mega-list-errow"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li id="product-line-dropdown"
+                                    class="dropdown dropdown-menu-menu-btn menu-item  drop-menu-main arrow-down product-line-dropdown">
+                                    <a id="product-line-id-a" href="#" class="product-line-a">
+                                        Products <span class="down-arrow-navbar"><i class="down"></i></span>
+                                    </a>
+                                    <div class="product-line-dropdown-menu">
+                                        <div class="product-line-dropdown-list">
+                                            <h3>
+                                                Our Product line <span class="product-line-menu-close">
+                                                    <i class="fa fa-times" aria-hidden="true"></i>
+                                                </span>
+                                            </h3>
+                                            <div class="product-line-list">
+                                                <div class="product-line-name">
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocHr","Product")'" 
+                                                           title="Find out more about our VeriDoc HR solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                HR
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocSupplyChain","Product")'"
+                                                           title="Find out more about our VeriDoc Supply Chain solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                Supply Chain
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocDocsign","Product")'"
+                                                           title="Find out more about our VeriDoc DocuSign solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                DocSign
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocSmartLogin","Product")'"
+                                                           title="Find out more about our VeriDoc Smart Login solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                Smart Login
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocAnalytics","Product")'"
+                                                           title="Find out more about our VeriDoc Analytics solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                Analytics
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocDocuments","Product")'"
+                                                           title="Find out more about our VeriDoc Documents Web App solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                Documents Web App
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="product-line-name-li">
+                                                        <a onclick="location.href='@Url.Action("VeridocLogbook","Product")'"
+                                                           title="Find out more about our VeriDoc Logbook solution">
+                                                            <span>
+                                                                VeriDoc
+                                                                Logbook
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="menu-item">
+                                    <a asp-controller="Technology" asp-action="Index">Technology</a>
+                                    
+                                </li>
+                                <li class="menu-item">
+                                    <a asp-controller="OurTeam" asp-action="Index">Our Team</a>
+                                    
+                                </li>
+                                <li class="menu-item">
+                                    <a asp-controller="ContactUs" asp-action="Index">Contact Us</a>
+                                    
+                                </li>
+                            </ul>
+                            <ul class="header-btn-sec">
+                                <li>
+                                    <div class="header-search-wrapper">
+                                        <span class="search-main">
+                                            <i class="fa fa-search"></i>
+                                        </span>
+                                        <div class="search-form-main clearfix">
+                                            <form role="search" method="get" class="search-form" action="sitename.com/">
+                                                <label>
+                                                    <input type="search" class="search-field" placeholder="Search …"
+                                                           value="" name="s">
+                                                </label>
+                                                <input type="submit" class="search-submit" value="Search">
+                                            </form>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("SignUp","Account")'" class="signup-btn">Sign Up</a>
+                                </li>
+                                <li>
+                                    <button class="btn btn-1"
+                                            onclick="location.href='https://wa.me/+255672787869';">
+                                        Talk to sales
+                                    </button>
+                                </li>
+                                <li>
+                                    <button onclick="opensignup()" class="btn btn-2">Try for free</button>
+                                </li>
+                            </ul>
+
+                        </nav>
+
+
+                        <nav class="mobile-nevbar">
+                            <!-- Menu Toggle btn-->
+                            <div class="menu-toggle toggle-menu-alignment-new">
+                                <button type="button" id="menu-btn" class="" data-toggle="collapse"
+                                        data-target="#bs-example-navbar-collapse-1">
+                                    <span id="navbar-hamburger">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </span>
+                                </button>
+                            </div>
+
+                            <!-- Responsive Menu Structure-->
+                            <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
+                            <ul id="respMenu" class="ace-responsive-menu collapse" data-menu-style="">
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","Home")'">Home</a>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","AboutUs")'">About Us</a>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","Services")'">Services</a>
+                                </li>
+                                <li class="mobile-li">
+                                    <a class="sub-menu-top-shadow" href="javascript:void(0)">
+                                        <span class="title">
+                                            Use
+                                            Cases
+                                        </span><span class="arrow"></span>
+                                    </a>
+                                    <!-- Level Two-->
+                                    <ul class="sub-menu">
+                                        <li>
+                                            
+                                               
+                                                <a onclick="location.href='@Url.Action("HealthSolution","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-health.png"
+                                                     alt="Health">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-health-active.png"
+                                                     alt="Health">
+                                                <span>Health</span>
+                                            </a>
+                                            <span id="health-multi-drop" class="arrow-mega-menu"
+                                                  data-bs-toggle="collapse" data-bs-target="#Health"></span>
+                                            <div id="Health" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a href="useCase-pages/sub-menu-pages/health-care-card.html">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> International Health Care
+                                                        Card
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("CoronaVirus","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Coronavirus
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("SupplyChain","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-supplychain.png"
+                                                     alt="supplychain">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-supplychain-active.png"
+                                                     alt="supplychain">
+                                                <span>Supply Chain</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Supply"></span>
+                                            <div id="Supply" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("DeliveryDistribution","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Delivery and Distribution
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("ExpressShipping","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Express Post Shipping
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("Food","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-food.png"
+                                                     alt="food">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-food-active.png"
+                                                     alt="food">
+                                                <span>Food</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Food"></span>
+                                            <div id="Food" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("Coffee","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Coffee
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("Wine","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Wine
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("GMOfreeCorn","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> GMO-Free Corn
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("ArtisanLoaf","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Artisan Loaf
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("BabyFormula","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Baby Formula
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("DogFood","UseCases")'">
+                                                    <span>
+                                                    <i class="fas fa-caret-right"></i>
+                                                    Dog Food </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("LandTiles","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-land.png"
+                                                     alt="land">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-land-active.png"
+                                                     alt="land">
+                                                <span>Land Titles</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Land-Titles"></span>
+                                            <div id="Land-Titles" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("LandCertificate","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Certificate of Title
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("Document","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-document.png"
+                                                     alt="document">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-document-active.png"
+                                                     alt="document">
+                                                <span>Documents</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Documents"></span>
+                                            <div id="Documents" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("UniversityCertificate","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i>University Certificate
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("AssignmentSheet","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Assignment Cover Sheet
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("BankStatement","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Bank Statement
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("CreditReport","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Credit Report
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("Pharma","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-pharma.png"
+                                                     alt="pharma">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-id-pharma.png"
+                                                     alt="pharma">
+                                                <span>Pharmaceuticals</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Pharmaceuticals"></span>
+                                            <div id="Pharmaceuticals"
+                                                 class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("CBDOil","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> CBD Oil
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("Insullin","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Insulin
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("PenicillinPotassium","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Penicillin V Potassium
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("CholesterolHealthManager","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Cholesterol Health Manager
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("TimeSheet","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="assets/img/Use-cases/mobile-header-icon/nav-timesheet.png"
+                                                     alt="timesheets">
+                                                <img class="nav-menu-img-hover"
+                                                     src="assets/img/Use-cases/mobile-header-icon/nav-timesheet-active.png"
+                                                     alt="timesheets">
+                                                <span>Timesheets</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Timesheets"></span>
+                                            <div id="Timesheets" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("WeaklyTimeSheet","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Weekly Timesheet
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("EmployeeIdData","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i>Employee ID Data
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("MonthlyTimeSheet","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Monthly Timesheet
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("Transport","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-transports.png"
+                                                     alt="transports">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-transports-active.png"
+                                                     alt="transports">
+                                                <span>Transport</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Transports"></span>
+                                            <div id="Transports" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("VerifiedDriver","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i>Verified Ride Driver Check
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("DigitalDriverLicence","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Digital Drivers Licence
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("IdCard","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-id.png" alt="id">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-id-active.png"
+                                                     alt="id">
+                                                <span>ID Cards</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#ID-Cards"></span>
+                                            <div id="ID-Cards" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("AviationId","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i>Aviation ID
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("DriverLicence","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Drivers Licence
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("EmployeeIdCard","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Employee ID Card
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("HealthCard","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Health Card
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("Passport","UseCases")'" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-passport.png"
+                                                     alt="passport">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/nav-passport-active.png"
+                                                     alt="passport">
+                                                <span>Passports</span>
+                                            </a>
+                                            <span class="arrow-mega-menu" data-bs-toggle="collapse"
+                                                  data-bs-target="#Passports"></span>
+                                            <div id="Passports" class="accordion-collapse collapse mobile-mega-menu">
+                                                <span class="mobile-menu-label">Proof of Concepts</span>
+                                                <a onclick="location.href='@Url.Action("AustralianPassport","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> Australian Passport
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("TanzanianPassport","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i>Tanzanian Passport
+                                                    </span>
+                                                </a>
+                                                <a onclick="location.href='@Url.Action("PNGPassport","UseCases")'">
+                                                    <span>
+                                                        <i class="fas fa-caret-right"></i> PNG Passport
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a href="useCase-pages/brand-trust.html" class="btn btn-default">
+                                                <img class="nav-menu-img"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/brand-trust-gray.png"
+                                                     alt="timesheets">
+                                                <img class="nav-menu-img-hover"
+                                                     src="~/assets/img/Use-cases/mobile-header-icon/brand-trust.png"
+                                                     alt="timesheets">
+                                                <span>Brand Trust</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="link-dropdown-li mobile-li">
+                                    <a class="sub-menu-top-shadow-product-line" href="javascript:void(0)">
+                                        <span class="title">Products</span><span class="arrow "></span>
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocHr","UseCases")'"
+                                               class="btn btn-default">
+                                                <span>
+                                                    VeriDoc
+                                                    HR
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocSupplyChain","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc Supply Chain</span></a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocDocsign","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc DocSign</span></a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocSmartLogin","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc Smart Login</span></a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocAnalytics","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc Analytics</span></a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocDocuments","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc Documents Web App</span></a>
+                                        </li>
+                                        <li>
+                                            <a onclick="location.href='@Url.Action("VeridocLogbook","UseCases")'"
+                                               class="btn btn-default"><span>VeriDoc Logbook</span></a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","Technology")'">Technology</a>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","OurTeam")'">Our Team</a>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("Index","ContactUs")'">Contact Us</a>
+                                </li>
+
+
+                                <li class="mobile-search-box">
+                                    <div class="header-search-wrapper">
+                                        <span class="search-main">
+                                            <i class="fa fa-search"></i>
+                                        </span>
+                                        <div class="search-form-main clearfix">
+                                            <form role="search" method="get" class="search-form" action="sitename.com/">
+                                                <label>
+                                                    <input type="search" class="search-field" placeholder="Search …"
+                                                           value="" name="s">
+                                                </label>
+                                                <input type="submit" class="search-submit" value="Search">
+                                            </form>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a onclick="location.href='@Url.Action("SignUp","Account")'" class="signup-btn">Sign Up</a>
+                                </li>
+                                <li>
+                                    <button class="btn btn-1"
+                                            onclick="location.href='https://wa.me/+255672787869';">
+                                        Talk to sales
+                                    </button>
+                                </li>
+                                <li>
+                                    <button onclick="opensignup()" class="btn btn-2">Try for free</button>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </header>
+        <div>
+
+            @RenderBody()
+
+        </div>
+        <footer>
+            <section class="footer-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <img src="~/assets/img/logo-header.svg" alt="" class="img-fluid">
+                            <p>
+                                Sourcenets was established to provide information technology solutions for small to
+                                medium-sized businesses.
+                            </p>
+                            <p>
+                                Our mission from the very first day has been to cultivate professional relationships with
+                                our
+                                clients to provide effective and reliable information technology solutions for their
+                                needs.
+                            </p>
+                            <div class="social-icons-footer">
+                                <a href=""><i class="fa-brands fa-twitter"></i></a>
+                                <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
+                                <a href=""><i class="fab fa-instagram-square"></i></a>
+                                <a href=""><i class="fa-brands fa-facebook-f"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="footer-content footer-content-one">
+                                <h4>Working Hours</h4>
+                                <ul>
+                                    <li>
+                                        <p>Monday - Friday</p>
+                                        <p>9:00am - 5:00pm</p>
+                                    </li>
+                                    <li>
+                                        <p>Saturday</p>
+                                        <p>9:00am - 2:00pm</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="footer-content">
+                                <h4>Contact Us</h4>
+                                <ul class="contact-us-list">
+                                    <a href="mailto:hello@sourcenets.com"><a href="mailto:hello@sourcenets.com">
+                                    <li>
+                                        <span><i class="fa-solid fa-envelope"></i></span> hello@sourcenets.com
+                                    </li>
+                                    </a>
+                                    </a>
+                                    <a href="tel:+255 758 58 68 61">
+                                    <li><span><i class="fa-solid fa-phone"></i></span>+255 758 58 68 61</li>
+                                    </a>
+                                    <a href="tel:+255 67 278 7869">
+                                    <li><span></span>+255 67 278 7869</li>
+                                    </a>
+                                    <li>
+                                        <span><i class="fa-solid fa-location-dot"></i></span>P. O. Box 79722, Army
+                                        Building Mkwepu Street, Samora Avenue, Dar es salaam, Tanzania
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="footer-content last-sec-footer">
+                                <h4>NEWSLETTER</h4>
+                                <p>
+                                    Stay up to date with all our <br>
+                                    recent offers and <br>
+                                    promotions
+                                </p>
+                                <input type="email" class="" placeholder="Email Address" value="" name="">
+                                <!-- <div class="checkbox">
+                                    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+                                    <label for="vehicle1">I have read and agree to the terms & conditions</label>
+                                </div> -->
+                                <button class="btn btn-2">SUBSCRIBE WITH US</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+            <div class=" copyright-section">
+                <p>© 2022 SOURCENETS LIMITED</p>
+            </div>
+        </footer>
+    </main>
+    <!-- footer-end -->
+    <!------Jquery Js Link------->
+    <script src="~/assets/js/jquery.js"></script>
+    <!------Bootstrap js Link------->
+    <script src="~/assets/js/bootstrap.bundle.js"></script>
+    <!------Font Awesome js Link------->
+    <script src="~/assets/js/all.min.js"></script>
+    <script src="~/assets/js/custom-script.js"></script>
+    <script src="~/assets/js/jquery.floating-social-share.min.js"></script>
+    <script src="~/assets/js/ace-responsive-menu.js"></script>
+    <script src="https://unpkg.com/popperjs/core@2/dist/umd/popper.min.js"></script>
+    <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-2c7831bb44f98c1391d6a4ffda0e1fd302503391ca806e7fcc7b9b87197aec26.js"></script>
+
+    <script src="https://unpkg.com/popper.js@1"></script>
+    <script src="https://unpkg.com/tippy.js@4"></script>
+    <script id="rendered-js">
+        // Tooltip Options
+        // https://atomiks.github.io/tippyjs/all-options/
+        tippy.setDefaults({
+            arrow: true,
+            followCursor: true
+        });
+          //# sourceURL=pen.js
+    </script>
+    @*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>*@
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

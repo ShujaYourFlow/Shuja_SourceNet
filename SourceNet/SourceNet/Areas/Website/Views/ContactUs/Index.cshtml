@@ -1,0 +1,127 @@
+﻿@model ContactUsEntity
+<section class="home-banner contact-banner">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-lg-12 text-center">
+                <div class="banner-left-content">
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="next-client next-client-dark home-next-client">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 next-client-head">
+                <h2>Be Our Next Client</h2>
+            </div>
+            <div class="col-lg-6">
+                <h4>Tell Us About your Project</h4>
+                <p>Are you looking for a designer partner? You found us.</p>
+                <form asp-action="SendMail" asp-controller="contactus" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <input type="text" class="form-control" id="exampleFormControlInput1" asp-for="Name"
+                                   placeholder="Name*">
+                        </div>
+                        <div class="col-lg-6">
+                            <input type="text" class="form-control" id="exampleFormControlInput1" asp-for="company"
+                                   placeholder="Company Name*">
+                        </div>
+                        <div class="col-lg-12">
+                            <input type="email" class="form-control" id="exampleFormControlInput1" asp-for="emailaddress"
+                                   placeholder="Email**">
+                        </div>
+                        <div class="col-lg-12">
+                            <textarea class="form-control" placeholder="Write a few words about your project*" asp-for="Description"
+                                      id="floatingTextarea"></textarea>
+                            <label for="">
+                                We will get back with a proposal within 48 hours then set an appointment
+                                for
+                                requirements discussion.
+                            </label>
+                        </div>
+                        <div class="col-lg-12 mt-4">
+                            @*<script>
+                                    function test() {
+                                        $.ajax({
+                                            type: "POST",
+                                            url: "/send",
+                                            async: true,
+                                            success: function (msg) {
+                                                ServiceSucceeded(msg);
+                                            },
+                                            error: function () {
+                                                return "error";
+                                            }
+                                        });
+                                    }
+
+                                </script>*@
+                            <button type="submit" value="submit" class="btn btn-4" @*onclick="test()"*@>SUBMIT</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <div class="next-client-right">
+                    <h4>Lets Talk About Everything</h4>
+                    <h6>Headquarters: Tanzania </h6>
+                    <div class="mob-num-sec">
+                        <div class="num-icon">
+                            <i class="fa-solid fa-phone"></i>
+                        </div>
+                        <div class="mob-num">
+                            <a href="tel:+255 758 58 68 61" type="tel">
+                                <p>+255 758 58 68 61</p>
+                            </a>
+                            <a href="tel:+255 672 78 78 69" type="tel">
+                                <p>+255 672 78 78 69</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="mail-sec">
+                        <div class="mail-icon">
+                            <i class="fa-solid fa-envelope"></i>
+                        </div>
+                        <div class="mail-id">
+                            <a href="mailto:hello@sourcenets.com">
+                                <p>hello@sourcenets.com</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="address-sec">
+                        <div class="address-icon">
+                            <i class="fa-solid fa-location-dot"></i>
+                        </div>
+                        <div class="address">
+                            <h6>
+                                Zambia Branch: House Number 10, Off Buluwe Road, Woodlands, Lusaka Province,
+                                Zambia
+                            </h6>
+                            <p>
+                                P. O. Box 79722, Army Building Mkwepu Street, Samora Avenue, Dar es salaam,
+                                Tanzania
+                            </p>
+                            <p>
+                                Branch: Gambia, West Africa
+                                Point Zone Kotu, Sand Beach Hotel
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div style="width: 100%">
+    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
+            marginwidth="0"
+            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=P.%20O.%20Box%2079722,%20Army%20Building%20Mkwepu%20Street,%20Samora%20Avenue,%20Dar%20es%20salaam+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+        <a href="https://www.maps.ie/distance-area-calculator.html">measure area map</a>
+    </iframe>
+</div>

@@ -1,0 +1,13 @@
+.gallery .row .col-lg-4{
+    margin-top: 2rem;
+}
+.gallery{
+    margin-bottom: 2rem;
+}
+.fancybox__thumbs,
+.fancybox__toolbar .fancybox__button--zoom,
+.fancybox__toolbar .fancybox__button--slideshow, 
+.fancybox__toolbar .fancybox__button--fullscreen,
+.fancybox__toolbar .fancybox__button--thumbs{
+    display: none;
+}

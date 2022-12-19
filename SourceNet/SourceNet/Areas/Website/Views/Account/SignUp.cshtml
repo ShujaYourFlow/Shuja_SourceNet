@@ -1,0 +1,156 @@
+﻿@{ 
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sourcenets Africa</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="~/assets/img/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/assets/img/fav//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/assets/img/fav//favicon-16x16.png">
+    <link rel="manifest" href="~/assets/img/fav//site.webmanifest">
+    <link rel="mask-icon" href="~/assets/img/fav//safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!------Bootstrap Link------->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.css">
+    <!------Font Awesome Link------->
+    <link rel="stylesheet" href="~/assets/css/all.min.css">
+    <!------Default Font Link------->
+    <link rel="stylesheet" href="~/assets/css/fonts.css">
+    <!------Custom css Link------->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/product-menu-css.css">
+    <link rel="stylesheet" href="~/assets/css/custom-styles.css">
+    <link rel="stylesheet" href="~/assets/css/ace-responsive-menu.css">
+    <link rel="stylesheet" href="~/assets/css/jquery.floating-social-share.min.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+</head>
+
+<body>
+
+    <main id="main">
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about-1">
+            <div class="container-fluid">
+
+                <div class="row">
+
+                    <div class="col-lg-6 left-sign-img sign-up-left">
+                        <img src="~/assets/img/sign-up.svg" alt="" class="img-fluid">
+                    </div>
+
+                    <div class="col-lg-6 d-flex flex-column align-items-stretch">
+
+                        <div class="content">
+
+                            <div class="d-flex justify-content-end Link">
+                                <div class="d-flex" style="gap:10px; font-size:16px;">
+                                    <span>Already Member?</span><a asp-area="Website" asp-controller="Account" asp-action="SignIn" style="color:#14475f;">Sign In Now</a>
+                                </div>
+                            </div>
+
+                            <div class="form">
+                                <h4 class="signin-heading" style="font-size:x-large;">Sign Up To Sourcenet</h4>
+                                <button type="button" class="btn btn-4 button-1"> <img class="g-img" src="~/assets/img/google.png" height="18" /> SIGN IN WITH GOOGLE</button>
+                                <span class="or">or</span>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="wrapper">
+                                        <div class="input-data">
+                                            <input type="text" required="required" />
+                                            <label>Name</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="wrapper">
+                                        <div class="input-data">
+                                            <input type="email" required="required" />
+                                            <label>Emai Address</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br /><br />
+                            <div class="wrapper">
+                                <div class="input-data">
+                                    <input type="password" id="myInput" required="required" class="input" spellcheck="false" />
+                                    <label>Password</label>
+                                    <span class="eye" onclick="myFunction()">
+                                        <i id="hide1" class="bi bi-eye"></i>
+                                        <i id="hide2" class="bi bi-eye-slash"></i>
+                                    </span>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="d-flex justify-content-end">
+                                <a asp-area="Website" asp-controller="Account" asp-action="ForgotPassword" style="color:#14475f; font-size:16px;">Forget Password?</a>
+                            </div>
+                            <br />
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" style="box-shadow:none;">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    Creating an account means you're okay with our <span style="color:#14475f;"> Terms of Service, </span> <br />
+                                    <span style="color:#14475f;">Privacy Policy, </span> and our default notification Settings.
+                                </label>
+                            </div>
+                            <br />
+                            <button type="button" class="btn btn-4 button-1">SIGN IN</button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End About Section -->
+
+
+    </main><!-- End #main -->
+
+
+    <script>
+
+        function myFunction() {
+            var x = document.getElementById("myInput");
+            var y = document.getElementById("hide1");
+            var z = document.getElementById("hide2");
+
+            if (x.type === 'password') {
+                x.type = "text";
+                y.style.display = "block";
+                z.style.display = "none";
+            }
+            else {
+                x.type = "password";
+                y.style.display = "none";
+                z.style.display = "block";
+            }
+        }
+
+    </script>
+
+    <!-- Vendor JS Files -->
+    <script src="~/assets/js/jquery.js"></script>
+    <!------Bootstrap js Link------->
+    <script src="~/assets/js/bootstrap.bundle.js"></script>
+    <!------Font Awesome js Link------->
+    <script src="~/assets/js/all.min.js"></script>
+    <script src="~/assets/js/custom-script.js"></script>
+    <script src="~/assets/js/jquery.floating-social-share.min.js"></script>
+    <script src="~/assets/js/ace-responsive-menu.js"></script>
+
+
+</body>
+
+</html>
